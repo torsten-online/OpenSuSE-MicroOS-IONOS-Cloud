@@ -1,2 +1,2 @@
-# OpenSuSE-MicroOS-hcloud
-Packer Build for OpenSuSE MicroOS on Hetzner Cloud
+# OpenSuSE-Micro-hcloud
+Packer Build for openSUSE Leap Micro 5.2 on Hetzner Cloud
