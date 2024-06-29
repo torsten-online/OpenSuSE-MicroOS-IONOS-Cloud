@@ -1,5 +1,5 @@
-# OpenSuSE-Micro-hcloud
-Packer Build for openSUSE Leap Micro 5.2 on Hetzner Cloud
+# OpenSuSE-Micro-IONOS
+Packer Build for openSUSE Leap Micro 6.0 on IONOS Cloud
 
 # Use Cases
 
